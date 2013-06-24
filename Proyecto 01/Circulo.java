@@ -14,7 +14,7 @@ public class Circulo{
     }
     
     public double getDiametro(){
-        return -1;
+        return 2*radio;
     }
     
     public double getArea(){
